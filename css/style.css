@@ -1,0 +1,15 @@
+.cls_workD{
+        /*position: absolute;*/
+        display: inline-block;
+        padding: 1em;
+        width: 200px;
+       
+        /*float: left;*/
+    }
+
+    #questns{
+        top: 300px;
+        position: absolute;
+        display: inline-grid;
+        float: right;
+    }
